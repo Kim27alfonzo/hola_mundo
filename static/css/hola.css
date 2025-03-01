@@ -1,0 +1,23 @@
+/* Estilos para el cuerpo de la página */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Estilos para el encabezado <h1> */
+h1 {
+    color: #4CAF50;
+    font-size: 2.5em;
+    margin-bottom: 10px;
+}
+
+/* Estilos para el párrafo <p> */
+p {
+    font-size: 1.2em;
+    color: #555;
+    margin-top: 0;
+}
